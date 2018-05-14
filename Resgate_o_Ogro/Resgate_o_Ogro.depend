@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1526327306 source:c:\users\mena\desktop\resgate_o_ogro\jogo.c
+	<stdio.h>
+	<conio2.h>
+	<math.h>
+
